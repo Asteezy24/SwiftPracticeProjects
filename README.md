@@ -6,5 +6,5 @@ All practice projects from the <a href="https://www.youtube.com/channel/UCuP2vJ6
 
 Magical Grid Project:
 -----------
-<img src="Magical Animated Grid Project/magicGrid1.gif"/>
+<img src="Magical Animated Grid Project/magicGrid1.gif" align="middle"/>
 
