@@ -19,5 +19,14 @@ Magical Grid Project:
 Facebook Live Stream: 
 -----------
 
+<p> Example Project: </p>
 <img src="Facebook Live Stream Animation/facebookDemo.gif" align = "middle"/>
+<p> My Project: </p>
 <img src="Facebook Live Stream Animation/myDemo.gif" align = "middle"/>
+
+<p> Skills learned:</p>
+
+<p> -  </p>
+
+<p> - Core Animation using a Bezier Path and random intervals </p>
+
