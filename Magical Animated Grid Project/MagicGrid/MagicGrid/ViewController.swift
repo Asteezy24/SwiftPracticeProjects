@@ -49,7 +49,6 @@ class ViewController: UIViewController {
         
         let i = Int(location.x / width)
         let j = Int(location.y / width)
-        print(i,j)
         
         let key = "\(i)|\(j)"
         
@@ -86,7 +85,7 @@ class ViewController: UIViewController {
         let randGreen = Float(drand48())
         let randBlue = Float(drand48())
         
-        return UIColor(colorLiteralRed: randRed, green: randGreen, blue: randBlue, alpha: 1)
+        return UIColor(red: CGFloat(randRed), green: CGFloat(randGreen), blue: CGFloat(randBlue), alpha: 1)
         
     }
     
