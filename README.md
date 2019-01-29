@@ -26,7 +26,5 @@ Facebook Live Stream:
 
 <p> Skills learned:</p>
 
-<p> -  </p>
-
 <p> - Core Animation using a Bezier Path and random intervals </p>
 
